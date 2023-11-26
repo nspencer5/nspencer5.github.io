@@ -1,0 +1,130 @@
+
+.welcome {
+    position: fixed;
+    background-color: white;
+    width: 30%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.concert_folder {
+    background-color: transparent;
+    background-image: url("icons/closed folder concert.png"); /* Set the closed image as background */
+    background-size: contain; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    width: 100px; /* Set the width of the button */
+    height: 100px; /* Set the height of the button */
+    border: none;
+    cursor: pointer;
+    outline: none;
+    position: fixed;
+    top:60%; 
+    left:30%;
+}
+
+.concert_folder:hover {
+    background-image: url("icons/open folder concert.png"); /* Set the open image as background on hover */
+}
+
+.travel_folder {
+    background-color: transparent;
+    background-image: url("icons/closed folder travel.png"); /* Set the closed image as background */
+    background-size: contain; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    width: 100px; /* Set the width of the button */
+    height: 100px; /* Set the height of the button */
+    border: none;
+    cursor: pointer;
+    outline: none;
+    position: fixed;
+    top:15%; 
+    left:75%;
+}
+
+.travel_folder:hover {
+    background-image: url("icons/open folder travel.png"); /* Set the open image as background on hover */
+}
+
+.about_folder {
+    background-color: transparent;
+    background-image: url("icons/closed folder about.png"); /* Set the closed image as background */
+    background-size: contain; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    width: 100px; /* Set the width of the button */
+    height: 100px; /* Set the height of the button */
+    border: none;
+    cursor: pointer;
+    outline: none;
+    position: fixed;
+    top:13%; 
+    left:20%;
+}
+
+.about_folder:hover {
+    background-image: url("icons/open folder about.png"); /* Set the open image as background on hover */
+}
+
+.D_folder {
+    background-color: transparent;
+    background-image: url("icons/closed folder 3D.png"); /* Set the closed image as background */
+    background-size: contain; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    width: 100px; /* Set the width of the button */
+    height: 100px; /* Set the height of the button */
+    border: none;
+    cursor: pointer;
+    outline: none;
+    position: fixed;
+    top:70%; 
+    left:63%;
+}
+
+.D_folder:hover {
+    background-image: url("icons/open folder 3D.png"); /* Set the open image as background on hover */
+}
+
+.connect_folder {
+    background-color: transparent;
+    background-image: url("icons/closed folder connect.png"); /* Set the closed image as background */
+    background-size: contain; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    width: 100px; /* Set the width of the button */
+    height: 100px; /* Set the height of the button */
+    border: none;
+    cursor: pointer;
+    outline: none;
+    position: fixed;
+    top:50%; 
+    left:10%;
+}
+
+.connect_folder:hover {
+    background-image: url("icons/open folder connect.png"); /* Set the open image as background on hover */
+}
+
+.resume {
+    background-color: transparent;
+    background-image: url("icons/download resume.png"); /* Set the closed image as background */
+    background-size: contain; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    width: 100px; /* Set the width of the button */
+    height: 100px; /* Set the height of the button */
+    border: none;
+    cursor: pointer;
+    outline: none;
+    position: fixed;
+    top:5%; 
+    left:50%;
+}
+
+
+

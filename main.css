@@ -22,7 +22,7 @@
     cursor: pointer;
     outline: none;
     position: fixed;
-    top:60%; 
+    top:70%; 
     left:30%;
 }
 
@@ -42,8 +42,8 @@
     cursor: pointer;
     outline: none;
     position: fixed;
-    top:15%; 
-    left:75%;
+    top:20%; 
+    left:70%;
 }
 
 .travel_folder:hover {
@@ -82,7 +82,7 @@
     cursor: pointer;
     outline: none;
     position: fixed;
-    top:70%; 
+    top:65%; 
     left:63%;
 }
 
@@ -102,7 +102,7 @@
     cursor: pointer;
     outline: none;
     position: fixed;
-    top:50%; 
+    top:55%; 
     left:10%;
 }
 
